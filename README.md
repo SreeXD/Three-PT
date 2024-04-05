@@ -1,7 +1,5 @@
 # Three-PT
 
----
-
 (This is WIP and not even close to completion)
 
 WebGPU Path Tracer for Three.js
