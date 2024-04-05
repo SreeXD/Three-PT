@@ -1,0 +1,25 @@
+{
+    "name": "three-pt",
+    "version": "1.0.0",
+    "description": "",
+    "type": "module",
+    "main": "./dist/index.js",
+    "types": "./dist/index.d.ts",
+    "scripts": {
+        "build": "tsc",
+        "dev": "tsc --watch",
+        "format": "prettier . --write"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "peerDependencies": {
+        "three": "^0.162.0"
+    },
+    "devDependencies": {
+        "@types/three": "^0.162.0",
+        "@webgpu/types": "^0.1.40",
+        "prettier": "^3.2.5",
+        "typescript": "^5.4.2"
+    }
+}
